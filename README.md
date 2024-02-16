@@ -4,4 +4,4 @@
 
 Le défi consiste à analyser les données sur les arbres de la ville de Paris afin de proposer des stratégies efficaces pour optimiser les tournées d'entretien. En réduisant le nombre de trajets nécessaires, notre solution contribuera à la préservation de l'environnement tout en améliorant l'efficacité des services municipaux.
 
-Pour plus d'informations sur le contexte [https://opendata.paris.fr/explore/dataset/]
+Pour plus d'informations sur le contexte [https://opendata.paris.fr]
